@@ -45,7 +45,7 @@ Se utiliza [GitHub Issues](../../issues) y [GitHub Projects](https://github.com/
 | Área | Responsable académico | Situación verificable |
 | --- | --- | --- |
 | Repositorio y documentación | Oswaldo | README inicial y documentación de actividades |
-| Modelo de datos | Abigail | Sin diagrama entregado en el repositorio |
+| Modelo de datos | Abigail | Diagrama entregado en el repositorio |
 | Mapa interactivo | Raúl | Sin prototipo entregado en el repositorio |
 | Asignación de unidades | Abigail | Sin prototipo entregado en el repositorio |
 | Alertas masivas | Oswaldo | Funcionalidad complementaria en Backlog |
